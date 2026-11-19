@@ -1,4 +1,4 @@
-# Hola, soy [Eliseo Torres]
+# Hola, soy Eliseo Torres
 
 ### Desarrollador Backend | Especialista en Java y Spring Boot
 
@@ -19,7 +19,7 @@ Construyo sistemas backend escalables, seguros y de alto rendimiento, APIs REST 
 ---
 ---
 
-# Hi there, I'm [Eliseo Torres]
+# Hi there, I'm Eliseo Torres
 
 ### Backend Developer | Java & Spring Boot Specialist
 
